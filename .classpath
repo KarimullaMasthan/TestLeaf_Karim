@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="E:/TestLeaf/Softwares/Selenium/lib/ATUReporter_Selenium_testNG_5.5_BETA.jar"/>
+	<classpathentry kind="lib" path="E:/TestLeaf/Softwares/Selenium/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/TestLeaf/Softwares/Selenium/lib/fontbox-1.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/TestLeaf/Softwares/Selenium/lib/pdfbox-1.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/TestLeaf/Softwares/Selenium/lib/poi-3.13-beta1-20150723.jar"/>
+	<classpathentry kind="lib" path="E:/TestLeaf/Softwares/Selenium/lib/poi-ooxml-3.13-beta1-20150723.jar"/>
+	<classpathentry kind="lib" path="E:/TestLeaf/Softwares/Selenium/lib/poi-ooxml-schemas-3.13-beta1-20150723.jar"/>
+	<classpathentry kind="lib" path="E:/TestLeaf/Softwares/Selenium/lib/selenium-java-2.47.1.jar" sourcepath="E:/TestLeaf/Softwares/Selenium/lib/selenium-java-2.47.1-srcs.jar"/>
+	<classpathentry kind="lib" path="E:/TestLeaf/Softwares/Selenium/lib/selenium-java-2.47.1-srcs.jar"/>
+	<classpathentry kind="lib" path="E:/TestLeaf/Softwares/Selenium/lib/selenium-server-standalone-2.47.1.jar"/>
+	<classpathentry kind="lib" path="E:/TestLeaf/Softwares/Selenium/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/TestLeaf/TestLeaf/selenium-32bit/m2/repository/org/xerial/sqlite-jdbc/3.8.11.1/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Karim-9884439520/Downloads/mysql.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
